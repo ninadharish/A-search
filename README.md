@@ -1,6 +1,6 @@
 ![alt text](/output/plan.gif)
 
-# Path Planning with the Dijkstra Algorithm
+# Path Planning with the A* Algorithm
 
 ## Description
 
