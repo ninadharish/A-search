@@ -18,7 +18,7 @@ Source: Swift, Nicholas. “Easy A* (star) Pathfinding.” Medium, 27 February 2
 
 * The 2D Obstacle Space where the Obstacled are shown in red and a clearance space around the obstacles is shown in yellow.
 
-![alt text](/output/obspc.png =600x438)
+![alt text](/output/obspc.png  | width=100)
 
 * Searching the path.
 
